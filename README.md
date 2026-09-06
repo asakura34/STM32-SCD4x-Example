@@ -1,4 +1,4 @@
-# STM3 NUCLEO-L476RG SCD41 CO2 Sensor Example
+# STM32 NUCLEO-L476RG SCD41 CO2 Sensor Example
 
 This project is an STM32 HAL firmware example for reading a Sensirion SCD41 CO2 sensor with a NUCLEO-L476RG development board.
 
