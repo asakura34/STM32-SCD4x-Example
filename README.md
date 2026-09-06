@@ -6,13 +6,12 @@ The application uses Sensirion's official embedded SCD4x I2C driver and a projec
 
 ## Features
 
-- STM32Cube-style STM32L476RG project
+- STM32L476RG based project
 - Sensirion official SCD4x embedded I2C driver integration
 - STM32 HAL port of `sensirion_i2c_hal.c`
 - SCD41 communication over `I2C1`
 - CO2, temperature, and relative humidity measurement
 - UART serial output over `USART2`
-- Makefile-based build and flash workflow
 
 ## Hardware
 
