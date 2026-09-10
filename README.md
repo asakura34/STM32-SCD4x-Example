@@ -71,9 +71,7 @@ Core/
     usart.c                 USART2 initialization
     gpio.c                  GPIO initialization
 Drivers/                    STM32 HAL and CMSIS drivers
-Makefile                    Build and flash targets
-STM32L476XX_FLASH.ld        Linker script
-LED_BLINK_2.ioc             STM32CubeMX project configuration
+L476RG_SCD4x.ioc             STM32CubeMX project configuration
 ```
 
 ## How It Works
